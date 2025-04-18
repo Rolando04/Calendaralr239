@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calendar alr239</string>
+    <string name="title">Calendar</string>
+    <string name="sort_by_date">Sort by Date</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_category">Sort by Category</string>
+    <string name="details">Details</string>
+</resources>
